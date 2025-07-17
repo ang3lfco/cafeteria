@@ -14,6 +14,8 @@ El proyecto sigue una arquitectura por capas modularizada en Maven (modelo, nego
 - Historial de órdenes.
 
 
+## Capturas de pantalla
+
 **Sección de Cafés:**
 <img width="1366" height="768" alt="Screenshot (9603)" src="https://github.com/user-attachments/assets/08a03187-78e0-4ed8-83bf-f7c7a16cef69" />
 
