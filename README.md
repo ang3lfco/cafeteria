@@ -22,7 +22,7 @@ El proyecto sigue una arquitectura por capas modularizada en Maven (modelo, nego
 **Sección de Postres:**
 <img width="1366" height="768" alt="Screenshot (9604)" src="https://github.com/user-attachments/assets/2c8bf991-6cc3-4b0d-9c6a-a2747d3536b0" />
 
-**Sección de Historial de Ordenes:**
+**Sección de Historial de Órdenes:**
 <img width="1366" height="768" alt="Screenshot (9605)" src="https://github.com/user-attachments/assets/6786ddc2-ec9a-4a81-af57-1655af8306a9" />
 
 
