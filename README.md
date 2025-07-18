@@ -5,6 +5,7 @@ El proyecto sigue una arquitectura por capas modularizada en Maven (modelo, nego
 
 
 ## Funcionalidades Principales
+Este sistema está pensado como un **proyecto pequeño**, e incluye:
 
 - Visualización dinámica de menús de productos (cafés, postres).
 - Selección de tamaños y cantidades.
